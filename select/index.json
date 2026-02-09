@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋景色昭和ロマン",
+  "base_artist": "スリーズブーケ",
+  "createdAt": "2026-02-09T18:24:39.647088Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋景色昭和ロマン",
+      "artist": "スリーズブーケ",
+      "has_synced": false,
+      "path": "select/pl_01_恋景色昭和ロマン_スリーズブーケ.txt"
+    }
+  ]
+}
